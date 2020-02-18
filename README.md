@@ -4,3 +4,6 @@
  # Index
  A single neuron in a neural network -> [Blog](https://blog.electroica.com/a-simple-neuron-in-a-neural-network/) ||
 [code](https://github.com/Omsingh24/AIMLDS/blob/master/perceptron.py)
+
+
+Reposository shifted to : (https://github.com/Electroica/AIMLDS)
